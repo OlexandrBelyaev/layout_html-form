@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,SACE,YAAa,CACb,qBAAsB,CACtB,kBACF,CAEA,UACE,kBACF,CAEA,eACE,eACF","file":"style.8a2afc2e.css","sourceRoot":"..\\src","sourcesContent":["fieldset {\n  display: flex;\n  flex-direction: column;\n  margin-bottom: 20px;\n}\n\n.question {\n  margin-bottom: 10px;\n}\n\n.last-question {\n  margin-bottom: 0;\n}\n"]}
